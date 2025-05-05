@@ -66,8 +66,8 @@ brave-download-page/
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="desktop-view.png" width="45%" alt="Desktop View">
-  <img src="mobile-view.png" width="45%" alt="Mobile View">
+  <img src="desktop.jpg" width="45%" alt="Desktop View">
+  <img src="mobile.jpg width="45%" alt="Mobile View">
 </div>
 
 ## ✨ Customization
